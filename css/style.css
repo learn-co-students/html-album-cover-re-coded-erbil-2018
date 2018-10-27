@@ -33,10 +33,11 @@ h1 {
 }
 
 h2 {
-  font-size: 5.1em;
+  font-size: 4.1em;
   line-height: 1em;
   letter-spacing: .03em;
   margin-bottom: 2px;
+
 }
 
 h3 {
@@ -68,6 +69,12 @@ span {
   letter-spacing: .35em;
   vertical-align: top;
   padding-top: 10px;
+  margin-right: 750px;
+
+}
+#two {
+  margin-left: 420px;
+  margin-top: 0%;
 }
 
 img {
@@ -78,6 +85,7 @@ img {
 .wrapper {
   width: 800px;
   margin: 0 auto;
+
   /*background: url("https://s3.amazonaws.com/learn-verified/MOCKUP.jpg");*/
 }
 
@@ -95,7 +103,7 @@ img {
   background: url("https://s3.amazonaws.com/learn-verified/cover.jpg");
   background-size: 100%;
   text-align: center;
-} 
+}
 
 #back {
   background: rgba(247,211,27,1);
