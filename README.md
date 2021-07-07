@@ -3,7 +3,7 @@
 This challenge asks that you recreate the album cover shown in the <a href="https://s3.amazonaws.com/learn-verified/MOCKUP.jpg" target="_blank">MOCKUP.jpg</a> image by writing the appropriate HTML necessary into the `index.html` page. Use `SOURCE.md` to copy and paste in all filler text needed.
 
 ## Tasks for LearnIDE Environment Users
-
+https://github.com/headebeast/html-album-cover-re-coded-erbil-2018
 1. Click the "OPEN IDE" button
 
 ## Tasks for Local Environment Users
